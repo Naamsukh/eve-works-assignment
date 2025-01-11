@@ -1,0 +1,12 @@
+chonkie==0.4.1
+chonkie[semantic]==0.4.1
+langchain==0.3.14
+langchain-core==0.3.29
+langchain-openai==0.3.0
+langchain-pinecone==0.2.2
+langchain-text-splitters==0.3.5 
+pinecone==5.4.2
+pdfminer.six
+python-dotenv==1.0.1
+streamlit==1.41.1
+# pysqlite3-binary
